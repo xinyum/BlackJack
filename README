@@ -1,0 +1,18 @@
+# Steps:
+    0. Inside BlackJack folder
+
+    1. Run server:
+        $./Server.py
+        or
+        $python Server.py
+
+    2. Run Clients:
+        open a new terminal and
+        $./Client.py
+        or
+        $python Client.py
+
+    3. Enter ip address of server in client terminal:
+
+    4. Begin game
+
